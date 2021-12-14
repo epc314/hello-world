@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T05:27:12.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.4" etag="vpo9UXOmdx4m1nzitPYs" type="github"><diagram id="MzOT4js3Gi8n_-h6nHWj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-14T07:24:38.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Cr5pOAPCWXMppf8rL4Qp" version="15.9.4" type="github">
+  <diagram id="MzOT4js3Gi8n_-h6nHWj" name="Page-1">
+    <mxGraphModel dx="1209" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-1" target="y3EBWKFXs5ibxYRTaySA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;GUI用户界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-3" target="y3EBWKFXs5ibxYRTaySA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-3" target="y3EBWKFXs5ibxYRTaySA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-3" target="y3EBWKFXs5ibxYRTaySA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;输出&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="530" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;端口开放情况&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;操作系统信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;漏洞信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-12" target="y3EBWKFXs5ibxYRTaySA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-12" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=18;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="551.25" y="323.75" width="37.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-14" value="输入" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="545" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="491" y="320" />
+              <mxPoint x="570" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-15" value="端口范围" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-16" target="y3EBWKFXs5ibxYRTaySA-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320" />
+              <mxPoint x="570" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-16" value="IP地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="320" />
+              <mxPoint x="570" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-17" value="扫描方式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="595" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="y3EBWKFXs5ibxYRTaySA-18" target="y3EBWKFXs5ibxYRTaySA-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="320" />
+              <mxPoint x="570" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3EBWKFXs5ibxYRTaySA-18" value="漏洞类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
