@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T08:11:05.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.4" etag="GixWrw6bcPbBRjnm5zth" type="github"><diagram id="NKV6vdfMCghcsTtcsa36">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-14T08:35:54.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="y_pDh9WvZoxMBB8p97AB" version="15.9.4" type="github">
+  <diagram id="NKV6vdfMCghcsTtcsa36" name="Page-1">
+    <mxGraphModel dx="1209" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jhncEWu16QtBVKyhjmwj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-1" target="jhncEWu16QtBVKyhjmwj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="180" />
+              <mxPoint x="560" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ip地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-4" target="jhncEWu16QtBVKyhjmwj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-4" target="jhncEWu16QtBVKyhjmwj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;漏洞检测模块&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-7" target="jhncEWu16QtBVKyhjmwj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;填充payload&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-9" target="jhncEWu16QtBVKyhjmwj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="180" />
+              <mxPoint x="560" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;漏洞类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-15" value="比对" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-12" target="jhncEWu16QtBVKyhjmwj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;返回数据包&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jhncEWu16QtBVKyhjmwj-14" target="jhncEWu16QtBVKyhjmwj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-14" value="漏洞库" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhncEWu16QtBVKyhjmwj-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;漏洞信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
