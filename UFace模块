@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T02:22:20.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.6.6" etag="BhewJCkIu5PJVU-8rJGS" type="github"><diagram id="JJhsBaBUbQmcJwJyo7ey">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-12T02:52:58.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LjnG7qLlvOgqUEje7o4l" version="16.6.6" type="github">
+  <diagram id="JJhsBaBUbQmcJwJyo7ey" name="Page-1">
+    <mxGraphModel dx="1209" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-9" value="实时换脸" style="swimlane;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="395" y="430" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-11" value="基于DFL开发的实时换脸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3nJ05QaE0CPOmhJ7s-57-9">
+          <mxGeometry x="20" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-12" value="生成人脸" style="swimlane;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-13" value="基于StyleGan生成世界&lt;br&gt;上不存在的安全人脸数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3nJ05QaE0CPOmhJ7s-57-12">
+          <mxGeometry x="10" y="30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-14" value="人脸模型训练" style="swimlane;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-15" value="基于DeepFaceLab&lt;br&gt;训练人脸模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3nJ05QaE0CPOmhJ7s-57-14">
+          <mxGeometry x="20" y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="sourcePoint" />
+            <mxPoint x="930" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="sourcePoint" />
+            <mxPoint x="930" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-18" value="DeepFake检测" style="swimlane;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Server端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="455" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=24;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="400" as="sourcePoint" />
+            <mxPoint x="670" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="400" />
+              <mxPoint x="350" y="560" />
+              <mxPoint x="670" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-22" value="Client端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="465" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=24;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="30" as="sourcePoint" />
+            <mxPoint x="1030" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="600" />
+              <mxPoint x="10" y="600" />
+              <mxPoint x="10" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nJ05QaE0CPOmhJ7s-57-25" value="Flask&lt;br&gt;+&lt;br&gt;twilio SDK&lt;br&gt;在线视频会议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="245" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
